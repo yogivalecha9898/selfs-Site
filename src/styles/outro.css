@@ -1,0 +1,46 @@
+.outro {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
+.outro h1 {
+    margin: 50px 0 30px;
+    font-size: 3em
+}
+.outro h1 span {
+    color: lightgray;
+}
+
+.outro h3 {
+    margin: 0 0 5px;
+    font-size: 1.8em
+}
+
+.outro p {
+    font-size: 1.5em;
+    color: gray
+}
+
+.icons {
+    margin: 30px 0 0;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 4em;
+    cursor: pointer
+}
+
+.outro hr {
+    border-top: 3px solid black;
+    width: 50px;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    margin: 0 0 30px
+}
+

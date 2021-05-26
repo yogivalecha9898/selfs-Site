@@ -1,0 +1,14 @@
+.mainDiv {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+.mainHr, .outerhr {
+    border: none;
+    border-top: 1px solid lightgray;
+}
+
+.outerhr {
+    margin-top: 30px;
+}
