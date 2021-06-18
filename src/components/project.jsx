@@ -40,7 +40,7 @@ function Project() {
                 </div>
                 <div className="proj proj6">
                     <div className="next"><i className="fa fa-arrow-right" onClick={() => {
-                        window.open("https://github.com/yogivalecha9898/shareNote", "_blank")
+                        window.open("https://github.com/yogivalecha9898/Notes", "_blank")
                     }}></i></div>
                     <div className="info">WebDev</div>
                     <img src={img6} alt="imgs" />
