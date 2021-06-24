@@ -33,7 +33,7 @@ function Project() {
                 </div>
                 <div className="proj proj5">
                     <div className="next"><i className="fa fa-arrow-right" onClick={() => {
-                        window.open("https://github.com/yogivalecha9898/warmUp.github.io", "_blank")
+                        window.open("https://github.com/yogivalecha9898/cordura", "_blank")
                     }}></i></div>
                     <div className="info">UI/UXDev</div>
                     <img style={{height: "100%"}} src={img3} alt="imgs" />
